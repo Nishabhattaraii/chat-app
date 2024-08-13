@@ -1,0 +1,56 @@
+{% load static%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/x-icon" href="{% static 'favicon.ico' %}">
+
+    <title>Chat</title>
+</head>
+<body>
+    <textarea id='chat-log' cols='100' rows="10" readonly></textarea>
+    <br>
+    <input type="text" id="chat-message-input" size="100">
+    <br>
+    <input type="button" value="Send" id="chat-message-submit">
+
+    <script>
+        let ws;
+
+        function connect() {
+            ws = new WebSocket('ws://localhost:8000/chat/');
+
+            ws.onopen = function() {
+                console.log('WebSocket connection open...');
+            };
+
+            ws.onmessage = function(event) {
+                console.log('Message received from server...', event.data);
+                const data = JSON.parse(event.data); // string to object
+                document.querySelector('#chat-log').value += (data.msg + '\n');
+            };
+
+            ws.onclose = function(event) {
+                console.error('WebSocket connection closed. Reconnecting in 3 seconds...');
+                setTimeout(connect, 3000); // Attempt to reconnect after 3 seconds
+            };
+        }
+
+        // Initial connection
+        connect();
+
+        document.getElementById('chat-message-submit').onclick = function(event) {
+            const messageInputDom = document.getElementById('chat-message-input');
+            const message = messageInputDom.value;
+
+            if (ws.readyState === WebSocket.OPEN) {
+                ws.send(JSON.stringify({ 'msg': message }));
+            } else {
+                console.error('WebSocket is not open. Message not sent:', message);
+            }
+
+            messageInputDom.value = '';
+        }
+    </script>
+</body>
+</html>

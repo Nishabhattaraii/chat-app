@@ -1,0 +1,600 @@
+Aug 12 21:43:06 nisha-bhattarai-Inspiron-3580 systemd[1]: Starting redis-server.service - Advanced key-value store...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 2597.[0m
+Aug 12 21:43:06 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;39m[0;1;31m[0;1;39mredis-server.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit redis-server.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Aug 12 21:43:06 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 12 21:43:06 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 2597 and the job result is failed.[0m
+Aug 12 21:43:06 nisha-bhattarai-Inspiron-3580 systemd[1]: redis-server.service: Scheduled restart job, restart counter is at 1.
+[0;38;5;245m░░ [0m[0;32mSubject: Automatic restarting of a unit has been scheduled[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAutomatic restarting of the unit redis-server.service has been scheduled, as the result for[0m
+[0;38;5;245m░░[0m [0;32mthe configured Restart= setting for the unit.[0m
+Aug 12 21:43:06 nisha-bhattarai-Inspiron-3580 systemd[1]: Starting redis-server.service - Advanced key-value store...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 2688.[0m
+Aug 12 21:43:06 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;39m[0;1;31m[0;1;39mredis-server.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit redis-server.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Aug 12 21:43:06 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 12 21:43:06 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 2688 and the job result is failed.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: redis-server.service: Scheduled restart job, restart counter is at 2.
+[0;38;5;245m░░ [0m[0;32mSubject: Automatic restarting of a unit has been scheduled[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAutomatic restarting of the unit redis-server.service has been scheduled, as the result for[0m
+[0;38;5;245m░░[0m [0;32mthe configured Restart= setting for the unit.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: Starting redis-server.service - Advanced key-value store...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 2779.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;39m[0;1;31m[0;1;39mredis-server.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit redis-server.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 2779 and the job result is failed.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: redis-server.service: Scheduled restart job, restart counter is at 3.
+[0;38;5;245m░░ [0m[0;32mSubject: Automatic restarting of a unit has been scheduled[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAutomatic restarting of the unit redis-server.service has been scheduled, as the result for[0m
+[0;38;5;245m░░[0m [0;32mthe configured Restart= setting for the unit.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: Starting redis-server.service - Advanced key-value store...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 2870.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;39m[0;1;31m[0;1;39mredis-server.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit redis-server.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 2870 and the job result is failed.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: redis-server.service: Scheduled restart job, restart counter is at 4.
+[0;38;5;245m░░ [0m[0;32mSubject: Automatic restarting of a unit has been scheduled[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAutomatic restarting of the unit redis-server.service has been scheduled, as the result for[0m
+[0;38;5;245m░░[0m [0;32mthe configured Restart= setting for the unit.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: Starting redis-server.service - Advanced key-value store...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 2961.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;39m[0;1;31m[0;1;39mredis-server.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit redis-server.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 2961 and the job result is failed.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: redis-server.service: Scheduled restart job, restart counter is at 5.
+[0;38;5;245m░░ [0m[0;32mSubject: Automatic restarting of a unit has been scheduled[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAutomatic restarting of the unit redis-server.service has been scheduled, as the result for[0m
+[0;38;5;245m░░[0m [0;32mthe configured Restart= setting for the unit.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Start request repeated too quickly.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 12 21:43:07 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 3052 and the job result is failed.[0m
+Aug 12 21:43:39 nisha-bhattarai-Inspiron-3580 systemd[1]: Starting redis-server.service - Advanced key-value store...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 3240.[0m
+Aug 12 21:43:39 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;39m[0;1;31m[0;1;39mredis-server.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit redis-server.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Aug 12 21:43:39 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 12 21:43:39 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 3240 and the job result is failed.[0m
+Aug 12 21:43:39 nisha-bhattarai-Inspiron-3580 systemd[1]: redis-server.service: Scheduled restart job, restart counter is at 1.
+[0;38;5;245m░░ [0m[0;32mSubject: Automatic restarting of a unit has been scheduled[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAutomatic restarting of the unit redis-server.service has been scheduled, as the result for[0m
+[0;38;5;245m░░[0m [0;32mthe configured Restart= setting for the unit.[0m
+Aug 12 21:43:39 nisha-bhattarai-Inspiron-3580 systemd[1]: Starting redis-server.service - Advanced key-value store...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 3331.[0m
+Aug 12 21:43:39 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;39m[0;1;31m[0;1;39mredis-server.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit redis-server.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Aug 12 21:43:39 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 12 21:43:39 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 3331 and the job result is failed.[0m
+Aug 12 21:43:40 nisha-bhattarai-Inspiron-3580 systemd[1]: redis-server.service: Scheduled restart job, restart counter is at 2.
+[0;38;5;245m░░ [0m[0;32mSubject: Automatic restarting of a unit has been scheduled[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAutomatic restarting of the unit redis-server.service has been scheduled, as the result for[0m
+[0;38;5;245m░░[0m [0;32mthe configured Restart= setting for the unit.[0m
+Aug 12 21:43:40 nisha-bhattarai-Inspiron-3580 systemd[1]: Starting redis-server.service - Advanced key-value store...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 3422.[0m
+Aug 12 21:43:40 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;39m[0;1;31m[0;1;39mredis-server.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit redis-server.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Aug 12 21:43:40 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 12 21:43:40 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 3422 and the job result is failed.[0m
+Aug 12 21:43:40 nisha-bhattarai-Inspiron-3580 systemd[1]: redis-server.service: Scheduled restart job, restart counter is at 3.
+[0;38;5;245m░░ [0m[0;32mSubject: Automatic restarting of a unit has been scheduled[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAutomatic restarting of the unit redis-server.service has been scheduled, as the result for[0m
+[0;38;5;245m░░[0m [0;32mthe configured Restart= setting for the unit.[0m
+Aug 12 21:43:40 nisha-bhattarai-Inspiron-3580 systemd[1]: Starting redis-server.service - Advanced key-value store...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 3513.[0m
+Aug 12 21:43:40 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;39m[0;1;31m[0;1;39mredis-server.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit redis-server.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Aug 12 21:43:40 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 12 21:43:40 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 3513 and the job result is failed.[0m
+Aug 12 21:43:41 nisha-bhattarai-Inspiron-3580 systemd[1]: redis-server.service: Scheduled restart job, restart counter is at 4.
+[0;38;5;245m░░ [0m[0;32mSubject: Automatic restarting of a unit has been scheduled[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAutomatic restarting of the unit redis-server.service has been scheduled, as the result for[0m
+[0;38;5;245m░░[0m [0;32mthe configured Restart= setting for the unit.[0m
+Aug 12 21:43:41 nisha-bhattarai-Inspiron-3580 systemd[1]: Starting redis-server.service - Advanced key-value store...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 3604.[0m
+Aug 12 21:43:41 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;39m[0;1;31m[0;1;39mredis-server.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit redis-server.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Aug 12 21:43:41 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 12 21:43:41 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 3604 and the job result is failed.[0m
+Aug 12 21:43:41 nisha-bhattarai-Inspiron-3580 systemd[1]: redis-server.service: Scheduled restart job, restart counter is at 5.
+[0;38;5;245m░░ [0m[0;32mSubject: Automatic restarting of a unit has been scheduled[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAutomatic restarting of the unit redis-server.service has been scheduled, as the result for[0m
+[0;38;5;245m░░[0m [0;32mthe configured Restart= setting for the unit.[0m
+Aug 12 21:43:41 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Start request repeated too quickly.[0m
+Aug 12 21:43:41 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 12 21:43:41 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 3695 and the job result is failed.[0m
+Aug 13 07:19:21 nisha-bhattarai-Inspiron-3580 systemd[1]: Starting redis-server.service - Advanced key-value store...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 6503.[0m
+Aug 13 07:19:21 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;39m[0;1;31m[0;1;39mredis-server.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit redis-server.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Aug 13 07:19:21 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 13 07:19:21 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 6503 and the job result is failed.[0m
+Aug 13 07:19:22 nisha-bhattarai-Inspiron-3580 systemd[1]: redis-server.service: Scheduled restart job, restart counter is at 1.
+[0;38;5;245m░░ [0m[0;32mSubject: Automatic restarting of a unit has been scheduled[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAutomatic restarting of the unit redis-server.service has been scheduled, as the result for[0m
+[0;38;5;245m░░[0m [0;32mthe configured Restart= setting for the unit.[0m
+Aug 13 07:19:22 nisha-bhattarai-Inspiron-3580 systemd[1]: Starting redis-server.service - Advanced key-value store...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 6594.[0m
+Aug 13 07:19:22 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;39m[0;1;31m[0;1;39mredis-server.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit redis-server.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Aug 13 07:19:22 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 13 07:19:22 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 6594 and the job result is failed.[0m
+Aug 13 07:19:22 nisha-bhattarai-Inspiron-3580 systemd[1]: redis-server.service: Scheduled restart job, restart counter is at 2.
+[0;38;5;245m░░ [0m[0;32mSubject: Automatic restarting of a unit has been scheduled[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAutomatic restarting of the unit redis-server.service has been scheduled, as the result for[0m
+[0;38;5;245m░░[0m [0;32mthe configured Restart= setting for the unit.[0m
+Aug 13 07:19:22 nisha-bhattarai-Inspiron-3580 systemd[1]: Starting redis-server.service - Advanced key-value store...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 6685.[0m
+Aug 13 07:19:22 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;39m[0;1;31m[0;1;39mredis-server.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit redis-server.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Aug 13 07:19:22 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 13 07:19:22 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 6685 and the job result is failed.[0m
+Aug 13 07:19:23 nisha-bhattarai-Inspiron-3580 systemd[1]: redis-server.service: Scheduled restart job, restart counter is at 3.
+[0;38;5;245m░░ [0m[0;32mSubject: Automatic restarting of a unit has been scheduled[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAutomatic restarting of the unit redis-server.service has been scheduled, as the result for[0m
+[0;38;5;245m░░[0m [0;32mthe configured Restart= setting for the unit.[0m
+Aug 13 07:19:23 nisha-bhattarai-Inspiron-3580 systemd[1]: Starting redis-server.service - Advanced key-value store...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 6776.[0m
+Aug 13 07:19:23 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;39m[0;1;31m[0;1;39mredis-server.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit redis-server.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Aug 13 07:19:23 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 13 07:19:23 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 6776 and the job result is failed.[0m
+Aug 13 07:19:23 nisha-bhattarai-Inspiron-3580 systemd[1]: redis-server.service: Scheduled restart job, restart counter is at 4.
+[0;38;5;245m░░ [0m[0;32mSubject: Automatic restarting of a unit has been scheduled[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAutomatic restarting of the unit redis-server.service has been scheduled, as the result for[0m
+[0;38;5;245m░░[0m [0;32mthe configured Restart= setting for the unit.[0m
+Aug 13 07:19:23 nisha-bhattarai-Inspiron-3580 systemd[1]: Starting redis-server.service - Advanced key-value store...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 6867.[0m
+Aug 13 07:19:23 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;39m[0;1;31m[0;1;39mredis-server.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit redis-server.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Aug 13 07:19:23 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 13 07:19:23 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 6867 and the job result is failed.[0m
+Aug 13 07:19:24 nisha-bhattarai-Inspiron-3580 systemd[1]: redis-server.service: Scheduled restart job, restart counter is at 5.
+[0;38;5;245m░░ [0m[0;32mSubject: Automatic restarting of a unit has been scheduled[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAutomatic restarting of the unit redis-server.service has been scheduled, as the result for[0m
+[0;38;5;245m░░[0m [0;32mthe configured Restart= setting for the unit.[0m
+Aug 13 07:19:24 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Start request repeated too quickly.[0m
+Aug 13 07:19:24 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mredis-server.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit redis-server.service has entered the 'failed' state with result 'exit-code'.[0m
+Aug 13 07:19:24 nisha-bhattarai-Inspiron-3580 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start redis-server.service - Advanced key-value store.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit redis-server.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit redis-server.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 6958 and the job result is failed.[0m
